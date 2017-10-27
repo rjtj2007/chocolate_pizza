@@ -1,0 +1,79 @@
+* {
+  font-family: Tahoma, monospace, serif;
+  display: inline-block;
+}
+
+body {}
+
+header {}
+
+  .logo {
+    float: left;
+  }
+
+  #logo_text {
+    font-family: cursive;
+    font-size: 30px;
+  }
+
+  .logo p {
+    display: ;
+  }
+
+  .icons {
+    display: ;
+    float: right;
+  }
+
+  .main_title {
+    float: left;
+  }
+
+  #title {
+
+  }
+
+  #left {
+    float: left;
+  }
+
+  #right {
+    float: right;
+  }
+
+  .body_text {
+
+  }
+
+  .main_image {
+    display: block;
+    margin: 0px auto;
+  }
+
+  .recipe {
+
+  }
+
+  #col1 {
+
+  }
+
+  #col2 {
+
+  }
+
+  .about {
+
+  }
+
+  #author {
+
+  }
+
+  footer {
+
+  }
+
+  #sm_logo {
+  
+  }
