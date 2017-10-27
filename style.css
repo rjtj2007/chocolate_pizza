@@ -3,9 +3,17 @@
   display: inline-block;
 }
 
-body {}
+head{
 
-header {}
+}
+
+body {
+
+}
+
+header {
+  
+}
 
   .logo {
     float: left;
@@ -75,5 +83,5 @@ header {}
   }
 
   #sm_logo {
-  
+
   }
