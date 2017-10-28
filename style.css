@@ -1,87 +1,98 @@
 * {
   font-family: Tahoma, monospace, serif;
   display: inline-block;
-}
-
-head{
-
+  border: 1px solid blue;
 }
 
 body {
-
+  height: 1000px;
+  margin-left: auto;
+  padding: 40px;
 }
 
 header {
-  
+  position: relative top;
+  height: 30px;
+  width: 100%;
+  margin: 10px;
+  padding-bottom: 100px;
 }
 
-  .logo {
-    float: left;
-  }
+/*this is the header logo and icon bar*/
 
-  #logo_text {
-    font-family: cursive;
-    font-size: 30px;
-  }
+.logo {}
 
-  .logo p {
-    display: ;
-  }
+#logo_text {
+  font-family: cursive;
+  font-size: 30px;
+}
 
-  .icons {
-    display: ;
-    float: right;
-  }
+.logo p {
+  display: inline;
+  font-size: 12px;
+}
 
-  .main_title {
-    float: left;
-  }
+.icons {
+  display: ;
+  float: right;
+  padding-right: 20px;
+}
 
-  #title {
+/*this is the beginning of the body*/
 
-  }
+.line {
+  display: inline;
+  color: grey;
+  padding: 20px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
 
-  #left {
-    float: left;
-  }
+.main_title {
 
-  #right {
-    float: right;
-  }
+}
 
-  .body_text {
+#title {
+  font-size: 30px;
+}
 
-  }
+#left {
+  float: left;
+}
 
-  .main_image {
-    display: block;
-    margin: 0px auto;
-  }
+#right {
+  float: right;
+}
 
-  .recipe {
+.body_text {
+  color: grey;
+}
 
-  }
+.main_image {
+  display: block;
+  margin: 0px auto;
+  height: 800px;
+  width: 1200px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
 
-  #col1 {
+.recipe {
+  display: block;
+}
 
-  }
+.recipe img {
+  z-index: -1;
+}
 
-  #col2 {
+#col1 {}
 
-  }
+#col2 {}
 
-  .about {
+.about {}
 
-  }
+#author {}
 
-  #author {
+footer {}
 
-  }
-
-  footer {
-
-  }
-
-  #sm_logo {
-
-  }
+#sm_logo {}
